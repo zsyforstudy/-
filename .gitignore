@@ -1,0 +1,7 @@
+node_modules
+a.md
+.env
+dist
+mock-interviews
+.temp
+.cache
